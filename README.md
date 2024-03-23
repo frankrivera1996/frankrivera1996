@@ -1,8 +1,17 @@
-## Hey 👋, This is Frank
-[![Gmail Badge](https://img.shields.io/badge/-frankrivera1996@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:frankrivera1996@gmail.com)](mailto:frankrivera1996@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-frankrivera1996-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankrivera1996/)](https://www.linkedin.com/in/frankrivera1996/) [![Github Badge](https://img.shields.io/badge/-frankrivera1996-grey?style=flat&logo=github&logoColor=white&link=https://github.com/frankrivera1996/)](https://www.github.com/frankrivera1996/) <p align='left'>Student @ TripleTen. Aspiring BI Analyst with 10+ years in various roles and industries. Looking to collaborate on data analysis projects to gain industry experience. Feel free to reach out!</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=frankrivera1996 alt=frankrivera1996 /> </p>
+<h1 align="center">Hi 👋, I'm Frank</h1>
+<h3 align="center">10 + years diverse work experience | Business Intelligence | Operations</h3>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=frankrivera1996&show_icons=true&include_all_commits=true)](https://github.com/frankrivera1996/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankrivera1996&layout=compact)](https://github.com/frankrivera1996/github-readme-stats)
+- 🔭 I’m currently working on **CrewTracker Software Crystal Reports Migration to Power BI**
+
+- 🌱 I’m currently learning **SQL, Excel, Power BI, Tableau, and more.**
+
+- 👯 I’m looking to collaborate on **BI and Data Analytics Projects**
+
+- 🤝 I’m looking for help with **Upskilling and landing my first BI/Data Analytics role (or contract).**
+
+- 📫 How to reach me **frankrivera1996@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/frankrivera1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frankrivera1996" height="30" width="40" /></a>
+</p>
