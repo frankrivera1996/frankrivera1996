@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
-<h3 align="center">10 + years diverse work experience | Business Intelligence | Operations</h3>
+<h3 align="center">10 + years diverse work experience | Business Intelligence | Analytics | Operations</h3>
 
 - 🔭 I’m currently working on **CrewTracker Software Crystal Reports Migration to Power BI**
 
 - 🌱 I’m currently learning **SQL, Excel, Power BI, Tableau, and more.**
 
-- 👯 I’m looking to collaborate on **BI and Data Analytics Projects**
+- 🤲 I’m looking to collaborate on **BI and Data Analytics Projects**
 
 - 🤝 I’m looking for help with **Upskilling and landing my first BI/Data Analytics role (or contract).**
 
-- 📫 How to reach me **frankrivera1996@gmail.com**
+- 📊 Projects: [https://github.com/frankrivera1996/Data_projects_TripleTen](https://github.com/frankrivera1996/Data_projects_TripleTen)
+
+- 📫 How to reach me: **frankrivera1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
