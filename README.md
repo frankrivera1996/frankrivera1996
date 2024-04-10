@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
 <h3 align="center">10 + years diverse work experience | Business Intelligence | Analytics | Operations</h3>
 
-- 🔭 I’m currently working on **CrewTracker Software Crystal Reports Migration to Power BI**
+- 🔭 I’m currently working on **Microsoft Power BI Data Analyst Professional Certificate**
 
 - 🌱 I’m currently learning **SQL, Excel, Power BI, Tableau, and more.**
 
